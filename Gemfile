@@ -5,6 +5,6 @@ gem 'rails', '3.2.12'
 gem 'rails-api'
 gem 'jruby-openssl'
 
-gem 'neo4j'
-gem 'active_model_serialzers', '~> 0.7.0'
+gem 'neo4j', '~> 2.0'
+gem 'active_model_serializers', '~> 0.7.0'
 
