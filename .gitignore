@@ -1,2 +1,4 @@
 /.rvmrc
 /db/neo4j-*/*
+/dev_notes
+/wiki/*
